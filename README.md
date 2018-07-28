@@ -1,6 +1,6 @@
 # World-Cup-Analysis
 
-Tech stack?
+Tech stack:
 I use pandas, seaborn, numpy, matplotlib modules in Python Jupyter Notebook to do our analysis. In this project, I found these modules very useful, flexible, and interesting.
 
 Interesting findings 1:
@@ -25,7 +25,7 @@ Interesting findings 3:
 -  Africa, Asia & Oceania and South America have second most teams.
 -  South America and Asia & Oceania has more referees than Africa. The difference might be related to high level professional leagues.
 ![referee appearence](https://user-images.githubusercontent.com/31684373/43357946-c370642a-923e-11e8-9a60-c3666bfd6fe5.png)
-
+![continental allocation](https://user-images.githubusercontent.com/31684373/43358067-90aad2d0-9240-11e8-8e03-9e0cef073584.png)
 Interesting findings 4:
 -  If your country team is in home position, you are more likely to win when the referee comes from your continent, and your opponent does not.
 -  If your country team is in away position, it's best have a continential neutral referee.Otherwise it's better to have a referee comes from your continent.
