@@ -30,7 +30,6 @@ Interesting findings 3:
 ![referee appearence](https://user-images.githubusercontent.com/31684373/43357946-c370642a-923e-11e8-9a60-c3666bfd6fe5.png)
 
 Interesting findings 4:
-![jpg]('/Users/guyuanyuan/Downloads/2.jpg')
 -  If your country team is in home position, you are more likely to win when the referee comes from your continent, and your opponent does not.
 -  If your country team is in away position, it's best have a continential neutral referee.Otherwise it's better to have a referee comes from your continent.
 ![game results and referee](https://user-images.githubusercontent.com/31684373/43357921-586ada52-923e-11e8-9879-ab13333dcd43.png)
