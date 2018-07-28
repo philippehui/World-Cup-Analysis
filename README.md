@@ -8,6 +8,7 @@ We use pandas, seaborn, numpy, matplotlib modules in Python Jupyter Notebook to 
 
 Interesting findings 1:
 - The tournament has 16 teams at first, was expanded to 24 teams in 1982, and then to 32 in 1998. We can see that the audience increases as the number of teams increase. For example, there is a big increase in total attendence in 1982 compare the 1978, 1994 USA World Cup has the highest total attendence overall，the probable reason is that the stadiums in the USA have higher capacities. 2014 World Cup has the second highest total attendence.
+![img](World-Cup-Analysis/WorldCup Analysis Visualization/Attendence By Year.png)
 
 Interesting findings 2:
 - There are 79 country teams have ever played in World Cup.
