@@ -1,11 +1,9 @@
 # World-Cup-Analysis
 
 Why this project?
-
 We just went through an exciting 2018 world cup in Russia. I am soccer fan. So I choose this theme to do some analysis.
 
 Tech stack?
-
 I use pandas, seaborn, numpy, matplotlib modules in Python Jupyter Notebook to do our analysis. In this project, I found these modules very useful, flexible, and interesting.
 
 Interesting findings 1:
